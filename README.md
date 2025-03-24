@@ -35,7 +35,7 @@ Clone the repository and install dependencies:
 
 ```sh
 # Clone the repository
-git clone https://github.com/zhangyu1818/appicon-forge.git
+git clone https://github.com/1436223139/Appicon-Forge.git
 
 # Navigate to the directory
 cd appicon-forge
