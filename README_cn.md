@@ -60,7 +60,7 @@ pnpm dev
 pnpm build
 ```
 
-将 `out` 文件夹的内容部署到您的 Web 服务器或 GitHub Pages。
+将 `dist` 文件夹的内容部署到您的 Web 服务器或 GitHub Pages。
 
 ## 许可
 
