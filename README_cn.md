@@ -35,7 +35,7 @@
 
 ```sh
 # 克隆仓库
-git clone https://github.com/zhangyu1818/appicon-forge.git
+git clone https://github.com/1436223139/Appicon-Forge.git
 
 # 进入目录
 cd appicon-forge
